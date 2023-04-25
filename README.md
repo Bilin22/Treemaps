@@ -12,9 +12,11 @@ Treemaps are used in many contexts. Among the more popular uses are news headlin
 
 ## Treemap Visualizations
 - The treemap visualizer can resize, move rectangles, and manipulate the displayed-tree.
-- generic treemap: ![generic treemap](https://github.com/Bilin22/Treemaps/blob/main/generic%20treemap.png)
-- file system treemap: ![file system treemap](https://github.com/Bilin22/Treemaps/blob/main/file%20system%20treemap.png)
-- chess treemap: ![chess treemap](https://github.com/Bilin22/Treemaps/blob/main/chess%20treemap.png)
+- **generic treemap**: ![generic treemap](https://github.com/Bilin22/Treemaps/blob/main/generic%20treemap.png)
+
+- **file system treemap**: ![file system treemap](https://github.com/Bilin22/Treemaps/blob/main/file%20system%20treemap.png)
+
+- **chess treemap**: ![chess treemap](https://github.com/Bilin22/Treemaps/blob/main/chess%20treemap.png)
 
 ## Acknowledgements
 The starter code of this project is provided by:
